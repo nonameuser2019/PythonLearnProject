@@ -8,7 +8,7 @@ def any_duplicates(square):
 
 def any_duplicates_2(square):
     result = [i for x in square for i in x]
-    return len(set(result)) != 9
+    return len(set(result)) != 9e
 
 
 if __name__ == '__main__':

@@ -1,7 +1,7 @@
 import csv
 from csv import DictReader
 
-with open('text.csv', 'r') as f:
+with open('file_reading/text.csv', 'r') as f:
     reader = csv.reader(f)
 
     #get title
@@ -12,7 +12,7 @@ with open('text.csv', 'r') as f:
 
 print('*************')
 
-with open('text.csv', 'r') as f:
+with open('file_reading/text.csv', 'r') as f:
     reader = DictReader(f)
 
     for row in reader:
