@@ -1,6 +1,9 @@
 def persistence(n):
-    result = 0
-    return result
+    count = 0
+    while len(str(n)) > 1:
+        n = (int(x) * int(x) for x in str(n))
+        count += 1
+    return count
 
 
 def main():

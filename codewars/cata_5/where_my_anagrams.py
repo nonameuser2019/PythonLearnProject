@@ -2,15 +2,15 @@ import collections
 
 def anagrams(word, words):
     result = []
-    example = counter(word)
+    example = sorted(word)
     for w in words:
-       pass
+        if sorted(w) == example:
+            result.append(w)
+    return result
 
 
-def counter(word):
-    c = collections.Counter()
-    for letter in word:
-        c[letter] += 1
-    return c
+def anagrams_better(word, words):
+    return [w for w in words if sorted(w) == sorted(word)]
 
-print(anagrams('hello'))
+
+print(anagrams_better('abba', ['bbaa', 'acba']))
