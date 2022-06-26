@@ -1,16 +1,18 @@
-# is not complited
+
 def scramble(s1, s2):
-    for i in s2:
-        if i.isalpha() and i.islower() and i not in s1:
+    if sorted(s1) == sorted(s2):
+        return True
+    for letter in s2:
+        if letter not in s2 or s2.count(letter) > s1.count(letter):
             return False
     return True
 
+# best decision on my opinion
+# def scramble(s1, s2):
+#     return not any(s1.count(char) < s2.count(char) for char in set(s2))
 
-def scramble_2(s1, s2):
-    result = [i for i in s2 if i not in s1]
-    return False if result else True
-
-
-assert scramble('katas', 'steak') == False
-assert scramble_2('katas', 'steak') == False
-assert scramble_2('scriptjava', 'javascript') == True
+if __name__ == '__main__':
+    #assert scramble('katas', 'steak') == False
+    #assert scramble('katas', 'steak') == False
+    assert scramble('scriptingjava', 'javascript') == True
+    assert scramble('data', 'att') == False
