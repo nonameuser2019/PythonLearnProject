@@ -1,0 +1,357 @@
+{
+  "type": "audio",
+  "tracklist": true,
+  "tracknumbers": true,
+  "images": true,
+  "artists": true,
+  "tracks": [
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/01_1_klass_Obuchenie_gramote_Urok_1_Predlogenie_i_slovo.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 1. Предложение и слово",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "18:00",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/02_1_klass_Obuchenie_gramote_Urok_2_Slog_i_slovo.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 2. Слог и слово",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "18:47",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/03_1_klass_Obuchenie_gramote_Urok_3_Zvuki_v_okrugayustchem_mire.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 3. Звуки в окружающем мире",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "15:36",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/04_1_klass_Obuchenie_gramote_Urok_4_Glasnie_i_soglasnie_zvuki.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 4. Гласные и согласные звуки",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "15:45",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/05_1_klass_Obuchenie_gramote_Urok_5_Kak_obrazuetsya_slog.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 5. Как образуется слог",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "17:55",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/06_1_klass_Obuchenie_gramote_Urok_6_Bukva_O_zvuk_o.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 6. Буква О, звук о",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "13:47",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/07_1_klass_Obuchenie_gramote_Urok_7_Bukva_I_zvuk_i.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 7. Буква И, звук и",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "15:28",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/08_1_klass_Obuchenie_gramote_Urok_8_Bukva_Y_zvuk_y.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 8. Буква Ы, звук ы",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "16:14",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/09_1_klass_Obuchenie_gramote_Urok_9_Bukva_U_zvuk_u.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 9. Буква У, звук у",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "16:54",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/10_1_klass_Obuchenie_gramote_Urok_10_Bukva_N_zvuk_n.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 10. Буква Н, звук н",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "13:26",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/11_1_klass_Obuchenie_gramote_Urok_11_Bukva_K_zvuk_k.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 11. Буква К, звук к",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "12:45",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/12_1_klass_Obuchenie_gramote_Urok_12_Bukva_T_zvuk_t.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 12. Буква Т, звук т",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "19:10",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/13_1_klass_Obuchenie_gramote_Urok_13_Bukva_L_zvuk_l.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 13. Буква Л, звук л",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "16:50",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/14_1_klass_Obuchenie_gramote_Urok_14_Bukva_R_zvuk_r.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 14. Буква Р, звук р",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "16:54",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/15_1_klass_Obuchenie_gramote_Urok_15_Bukva_V_zvuk_v.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 15. Буква В, звук в",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "15:08",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/16_1_klass_Obuchenie_gramote_Urok_16_Bukva_E.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 16. Буква П, звук п",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "15:09",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/17_1_klass_Obuchenie_gramote_Urok_17_Bukva_P_zvuk_p.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 17. Буква М, звук м",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "17:27",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/18_1_klass_Obuchenie_gramote_Urok_18_Bukva_M_zvuk_m.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 18. Буква М, звук м",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "13:52",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/19_1_klass_Obuchenie_gramote_Urok_19_Glasnie_i_soglasnie.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 19. Гласные и согласные",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "15:50",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/20_1_klass_Obuchenie_gramote_Urok_20_Skazka_o_tsare_Saltane.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 20. Сказка о царе Салтане",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "18:07",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/21_1_klass_Obuchenie_gramote_Urok_21_Bukva_D_zvuk_d.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 21. Буква Д, звук д",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "17:45",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/22_1_klass_Obuchenie_gramote_Urok_22_Bukva_Ya.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 22. Буква Я",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "14:10",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/23_1_klass_Obuchenie_gramote_Urok_23_Bukva_Yo.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 23. Буква Ё",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "17:37",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/24_1_klass_Obuchenie_gramote_Urok_24_Bukva_I_kratkoe.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 24. Буква Й",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "12:24",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/25_1_klass_Obuchenie_gramote_Urok_25_Bukva_Yu.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 25. Буква Ю",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "17:18",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/26_1_klass_Obuchenie_gramote_Urok_26_Bukva_F_zvuk_f.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 26. Буква Ф, звук ф",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "20:06",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/27_1_klass_Obuchenie_gramote_Urok_27_Bukvi_myagkii_znak_i_tvyordii_znak.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 27. Буквы мягкий знак и твердый знак",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "16:08",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/28_1_klass_Obuchenie_gramote_Urok_28_Pervouchiteli_slovenskii.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 28. Первоучители словенские",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "12:45",
+        "artist": "",
+        "album": ""
+      }
+    },
+    {
+      "src": "https://azbyka.ru/audio/audio1/Detjam/voprosy-very-i-fomy/v-shkolu-s-veroj-i-fomoj/1_klass/obuchenie-gramote/29_1_klass_Obuchenie_gramote_Urok_29_Skazki_Pushkina.mp3",
+      "type": "audio/mpeg",
+      "title": "Урок 29. Сказки Пушкина",
+      "caption": "",
+      "description": "",
+      "meta": {
+        "length_formatted": "18:34",
+        "artist": "",
+        "album": ""
+      }
+    }
+  ]
+}
